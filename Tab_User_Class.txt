@@ -1,0 +1,9 @@
+User
+
+id - int - PK - AI
+first_name - string - varchar(100)
+last_name - string - varchar(100)
+username - string - varchar(100)
+password - string - varchar(100)
+email_address - string - varchar(100)
+account_status - string - varchar(50)
